@@ -1,0 +1,15 @@
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/bin/Debug/net5.0/csharp_enum.deps.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/bin/Debug/net5.0/csharp_enum.runtimeconfig.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/bin/Debug/net5.0/csharp_enum.runtimeconfig.dev.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/bin/Debug/net5.0/csharp_enum.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/bin/Debug/net5.0/ref/csharp_enum.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/bin/Debug/net5.0/csharp_enum.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/obj/Debug/net5.0/csharp_enum.csproj.AssemblyReference.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/obj/Debug/net5.0/csharp_enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/obj/Debug/net5.0/csharp_enum.AssemblyInfoInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/obj/Debug/net5.0/csharp_enum.AssemblyInfo.cs
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/obj/Debug/net5.0/csharp_enum.csproj.CoreCompileInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/obj/Debug/net5.0/csharp_enum.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/obj/Debug/net5.0/ref/csharp_enum.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/obj/Debug/net5.0/csharp_enum.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/csharp_enum/obj/Debug/net5.0/csharp_enum.genruntimeconfig.cache
